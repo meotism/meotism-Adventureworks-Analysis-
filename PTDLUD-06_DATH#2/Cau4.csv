@@ -1,0 +1,335 @@
+,BusinessEntityID,JobTitle,MaritalStatus,OrganizationLevel,Gender,TienLuong,SoNamLamViec,Rate
+0,1,Chief Executive Officer,S,,M,28112.0,13,125.5
+1,2,Vice President of Engineering,S,1.0,F,14215.376,14,63.4615
+2,3,Engineering Manager,M,2.0,M,9692.3008,15,43.2692
+3,4,Senior Tool Designer,S,3.0,M,6685.5488,12,8.62
+4,4,Senior Tool Designer,S,3.0,M,6685.5488,12,8.62
+5,4,Senior Tool Designer,S,3.0,M,6685.5488,12,23.72
+6,4,Senior Tool Designer,S,3.0,M,6685.5488,12,23.72
+7,4,Senior Tool Designer,S,3.0,M,6685.5488,12,29.8462
+8,4,Senior Tool Designer,S,3.0,M,6685.5488,12,29.8462
+9,5,Design Engineer,M,3.0,F,7323.0752,14,32.6923
+10,6,Design Engineer,M,3.0,M,7323.0752,14,32.6923
+11,7,Research and Development Manager,M,3.0,M,11307.6992,13,50.4808
+12,8,Research and Development Engineer,S,4.0,F,9153.8496,14,40.8654
+13,9,Research and Development Engineer,M,4.0,F,9153.8496,13,40.8654
+14,10,Research and Development Manager,M,4.0,M,9515.6992,13,42.4808
+15,11,Senior Tool Designer,S,3.0,M,6461.5488,12,28.8462
+16,12,Tool Designer,M,4.0,M,5600.0,15,25.0
+17,13,Tool Designer,M,4.0,F,5600.0,12,25.0
+18,14,Senior Design Engineer,S,3.0,M,8076.9248,12,36.0577
+19,15,Design Engineer,M,3.0,F,7323.0752,11,32.6923
+20,16,Marketing Manager,S,1.0,M,8400.0,13,24.0
+21,16,Marketing Manager,S,1.0,M,8400.0,13,24.0
+22,16,Marketing Manager,S,1.0,M,8400.0,13,28.75
+23,16,Marketing Manager,S,1.0,M,8400.0,13,28.75
+24,16,Marketing Manager,S,1.0,M,8400.0,13,37.5
+25,16,Marketing Manager,S,1.0,M,8400.0,13,37.5
+26,17,Marketing Assistant,S,2.0,M,3015.376,15,13.4615
+27,18,Marketing Specialist,S,2.0,M,3230.7744,11,14.4231
+28,19,Marketing Assistant,S,2.0,F,3015.376,11,13.4615
+29,20,Marketing Assistant,M,2.0,F,3015.376,11,13.4615
+30,21,Marketing Specialist,M,2.0,M,3230.7744,13,14.4231
+31,22,Marketing Specialist,S,2.0,M,3230.7744,14,14.4231
+32,23,Marketing Specialist,M,2.0,F,3230.7744,13,14.4231
+33,24,Marketing Specialist,M,2.0,F,3230.7744,13,14.4231
+34,25,Vice President of Production,S,1.0,M,18846.1504,13,84.1346
+35,26,Production Control Manager,M,2.0,M,5492.3008,14,24.5192
+36,27,Production Supervisor - WC60,S,3.0,F,5600.0,14,25.0
+37,28,Production Technician - WC60,M,4.0,M,2988.0,16,12.45
+38,29,Production Technician - WC60,S,4.0,M,2988.0,13,12.45
+39,30,Production Technician - WC60,M,4.0,F,2988.0,13,12.45
+40,31,Production Technician - WC60,M,4.0,F,2988.0,13,12.45
+41,32,Production Technician - WC60,M,4.0,F,2988.0,14,12.45
+42,33,Production Technician - WC60,M,4.0,M,2988.0,14,12.45
+43,34,Production Technician - WC60,M,4.0,F,2988.0,13,12.45
+44,35,Production Technician - WC60,M,4.0,M,2988.0,13,12.45
+45,36,Production Technician - WC60,M,4.0,M,2988.0,13,12.45
+46,37,Production Technician - WC60,S,4.0,M,2988.0,13,12.45
+47,38,Production Technician - WC60,M,4.0,F,2988.0,12,12.45
+48,39,Production Technician - WC60,S,4.0,M,2988.0,12,12.45
+49,40,Production Supervisor - WC60,S,3.0,F,5600.0,15,25.0
+50,41,Production Technician - WC60,S,4.0,M,2988.0,13,12.45
+51,42,Production Technician - WC60,M,4.0,M,2988.0,14,12.45
+52,43,Production Technician - WC60,M,4.0,F,2988.0,13,12.45
+53,44,Production Technician - WC60,S,4.0,M,2988.0,14,12.45
+54,45,Production Technician - WC60,M,4.0,M,2988.0,13,12.45
+55,46,Production Technician - WC60,S,4.0,M,2988.0,13,12.45
+56,47,Production Supervisor - WC10,S,3.0,M,5600.0,13,25.0
+57,48,Production Technician - WC10,M,4.0,F,3228.0,14,13.45
+58,49,Production Technician - WC10,S,4.0,M,3228.0,14,13.45
+59,50,Production Technician - WC10,M,4.0,M,3228.0,14,13.45
+60,51,Production Technician - WC10,S,4.0,M,3228.0,14,13.45
+61,52,Production Technician - WC10,M,4.0,F,3228.0,14,13.45
+62,53,Production Technician - WC10,M,4.0,F,3228.0,14,13.45
+63,54,Production Technician - WC10,M,4.0,F,3228.0,12,13.45
+64,55,Production Supervisor - WC50,M,3.0,M,5600.0,14,25.0
+65,56,Production Technician - WC50,M,4.0,F,2640.0,13,11.0
+66,57,Production Technician - WC50,S,4.0,M,2640.0,13,11.0
+67,58,Production Technician - WC50,M,4.0,M,2640.0,14,11.0
+68,59,Production Technician - WC50,S,4.0,M,2640.0,14,11.0
+69,60,Production Technician - WC50,S,4.0,M,2640.0,13,11.0
+70,61,Production Technician - WC50,S,4.0,F,2640.0,13,11.0
+71,62,Production Supervisor - WC60,M,3.0,M,5600.0,14,25.0
+72,63,Production Technician - WC60,S,4.0,M,2988.0,12,12.45
+73,64,Production Technician - WC60,S,4.0,M,2988.0,12,12.45
+74,65,Production Technician - WC60,M,4.0,M,2988.0,12,12.45
+75,66,Production Technician - WC60,S,4.0,M,2988.0,13,12.45
+76,67,Production Technician - WC60,S,4.0,M,2988.0,13,12.45
+77,68,Production Technician - WC60,S,4.0,M,2988.0,13,12.45
+78,69,Production Technician - WC60,S,4.0,M,2988.0,13,12.45
+79,70,Production Technician - WC60,M,4.0,M,2988.0,14,12.45
+80,71,Production Supervisor - WC30,S,3.0,M,5600.0,13,25.0
+81,72,Production Technician - WC30,M,4.0,M,2280.0,14,9.5
+82,73,Production Technician - WC30,M,4.0,F,2280.0,14,9.5
+83,74,Production Technician - WC30,S,4.0,M,2280.0,13,9.5
+84,75,Production Technician - WC30,S,4.0,M,2280.0,13,9.5
+85,76,Production Technician - WC30,M,4.0,F,2280.0,13,9.5
+86,77,Production Technician - WC30,M,4.0,F,2280.0,13,9.5
+87,78,Production Supervisor - WC40,M,3.0,M,5600.0,14,25.0
+88,79,Production Technician - WC40,M,4.0,M,3600.0,12,15.0
+89,80,Production Technician - WC40,S,4.0,M,3600.0,12,15.0
+90,81,Production Technician - WC40,S,4.0,M,3600.0,13,15.0
+91,82,Production Technician - WC40,S,4.0,M,3600.0,12,15.0
+92,83,Production Technician - WC40,M,4.0,M,3600.0,12,15.0
+93,84,Production Technician - WC40,M,4.0,M,3600.0,12,15.0
+94,85,Production Technician - WC40,S,4.0,M,3600.0,13,15.0
+95,86,Production Technician - WC40,M,4.0,M,3600.0,13,15.0
+96,87,Production Supervisor - WC10,M,3.0,M,5600.0,14,25.0
+97,88,Production Technician - WC10,S,4.0,F,3228.0,13,13.45
+98,89,Production Technician - WC10,S,4.0,M,3228.0,12,13.45
+99,90,Production Technician - WC10,S,4.0,F,3228.0,12,13.45
+100,91,Production Technician - WC10,S,4.0,F,3228.0,12,13.45
+101,92,Production Technician - WC10,M,4.0,M,3228.0,12,13.45
+102,93,Production Supervisor - WC50,S,3.0,M,5600.0,14,25.0
+103,94,Production Technician - WC50,M,4.0,M,2640.0,14,11.0
+104,95,Production Technician - WC50,M,4.0,M,2640.0,14,11.0
+105,96,Production Technician - WC50,M,4.0,F,2640.0,13,11.0
+106,97,Production Technician - WC50,S,4.0,M,2640.0,13,11.0
+107,98,Production Technician - WC50,M,4.0,M,2640.0,13,11.0
+108,99,Production Technician - WC50,S,4.0,M,2640.0,13,11.0
+109,100,Production Technician - WC50,M,4.0,M,2640.0,13,11.0
+110,101,Production Technician - WC50,M,4.0,M,2640.0,13,11.0
+111,102,Production Supervisor - WC10,S,3.0,M,5600.0,14,25.0
+112,103,Production Technician - WC10,S,4.0,M,3228.0,13,13.45
+113,104,Production Technician - WC10,M,4.0,F,3228.0,13,13.45
+114,105,Production Technician - WC10,S,4.0,M,3228.0,13,13.45
+115,106,Production Technician - WC10,S,4.0,M,3228.0,12,13.45
+116,107,Production Technician - WC10,M,4.0,M,3228.0,12,13.45
+117,108,Production Supervisor - WC50,S,3.0,M,5600.0,14,25.0
+118,109,Production Technician - WC50,M,4.0,F,2640.0,14,11.0
+119,110,Production Technician - WC50,S,4.0,M,2640.0,14,11.0
+120,111,Production Technician - WC50,S,4.0,M,2640.0,14,11.0
+121,112,Production Technician - WC50,S,4.0,M,2640.0,13,11.0
+122,113,Production Technician - WC50,M,4.0,F,2640.0,14,11.0
+123,114,Production Technician - WC50,M,4.0,M,2640.0,13,11.0
+124,115,Production Technician - WC50,S,4.0,F,2640.0,13,11.0
+125,116,Production Technician - WC50,S,4.0,M,2640.0,13,11.0
+126,117,Production Technician - WC50,M,4.0,M,2640.0,13,11.0
+127,118,Production Technician - WC50,M,4.0,M,2640.0,13,11.0
+128,119,Production Technician - WC50,S,4.0,M,2640.0,13,11.0
+129,120,Production Technician - WC50,S,4.0,F,2640.0,13,11.0
+130,121,Shipping and Receiving Supervisor,S,3.0,M,4307.6992,13,19.2308
+131,122,Stocker,S,4.0,F,2160.0,14,9.0
+132,123,Shipping and Receiving Clerk,M,4.0,M,2128.0,14,9.5
+133,124,Stocker,S,4.0,F,2160.0,14,9.0
+134,125,Shipping and Receiving Clerk,M,4.0,M,2128.0,13,9.5
+135,126,Stocker,M,4.0,M,2160.0,13,9.0
+136,127,Production Supervisor - WC40,S,3.0,M,5600.0,13,25.0
+137,128,Production Technician - WC40,S,4.0,M,3600.0,14,15.0
+138,129,Production Technician - WC40,S,4.0,M,3600.0,14,15.0
+139,130,Production Technician - WC40,S,4.0,M,3600.0,13,15.0
+140,131,Production Technician - WC40,S,4.0,M,3600.0,13,15.0
+141,132,Production Technician - WC40,M,4.0,F,3600.0,13,15.0
+142,133,Production Technician - WC40,S,4.0,M,3600.0,13,15.0
+143,134,Production Supervisor - WC20,M,3.0,M,5600.0,13,25.0
+144,135,Production Technician - WC20,M,4.0,M,3360.0,14,14.0
+145,136,Production Technician - WC20,M,4.0,M,3360.0,13,14.0
+146,137,Production Technician - WC20,S,4.0,F,3360.0,13,14.0
+147,138,Production Technician - WC20,M,4.0,F,3360.0,13,14.0
+148,139,Production Technician - WC20,S,4.0,M,3360.0,12,14.0
+149,140,Production Technician - WC20,M,4.0,M,3360.0,12,14.0
+150,141,Production Technician - WC20,M,4.0,M,3360.0,12,14.0
+151,142,Production Technician - WC20,S,4.0,F,3360.0,12,14.0
+152,143,Production Technician - WC20,S,4.0,M,3360.0,12,14.0
+153,144,Production Technician - WC20,M,4.0,M,3360.0,13,14.0
+154,145,Production Supervisor - WC30,S,3.0,F,5600.0,13,25.0
+155,146,Production Technician - WC30,S,4.0,M,2280.0,14,9.5
+156,147,Production Technician - WC30,M,4.0,F,2280.0,14,9.5
+157,148,Production Technician - WC30,S,4.0,M,2280.0,13,9.5
+158,149,Production Technician - WC30,M,4.0,M,2280.0,13,9.5
+159,150,Production Technician - WC30,M,4.0,M,2280.0,13,9.5
+160,151,Production Technician - WC30,M,4.0,M,2280.0,13,9.5
+161,152,Production Supervisor - WC20,M,3.0,M,5600.0,13,25.0
+162,153,Production Technician - WC20,S,4.0,M,3360.0,14,14.0
+163,154,Production Technician - WC20,M,4.0,M,3360.0,14,14.0
+164,155,Production Technician - WC20,S,4.0,M,3360.0,13,14.0
+165,156,Production Technician - WC20,M,4.0,M,3360.0,13,14.0
+166,157,Production Technician - WC20,S,4.0,F,3360.0,13,14.0
+167,158,Production Technician - WC20,S,4.0,F,3360.0,13,14.0
+168,159,Production Technician - WC20,S,4.0,M,3360.0,13,14.0
+169,160,Production Supervisor - WC45,M,3.0,M,5600.0,13,25.0
+170,161,Production Technician - WC45,S,4.0,M,2400.0,14,10.0
+171,162,Production Technician - WC45,S,4.0,F,2400.0,13,10.0
+172,163,Production Technician - WC45,M,4.0,M,2400.0,13,10.0
+173,164,Production Technician - WC45,S,4.0,M,2400.0,13,10.0
+174,165,Production Technician - WC45,M,4.0,M,2400.0,13,10.0
+175,166,Production Supervisor - WC30,S,3.0,M,5600.0,13,25.0
+176,167,Production Technician - WC30,S,4.0,M,2280.0,14,6.5
+177,167,Production Technician - WC30,S,4.0,M,2280.0,14,7.25
+178,167,Production Technician - WC30,S,4.0,M,2280.0,14,9.5
+179,168,Production Technician - WC30,S,4.0,M,2280.0,14,9.5
+180,169,Production Technician - WC30,S,4.0,F,2280.0,14,9.5
+181,170,Production Technician - WC30,M,4.0,M,2280.0,14,6.5
+182,170,Production Technician - WC30,M,4.0,M,2280.0,14,7.25
+183,170,Production Technician - WC30,M,4.0,M,2280.0,14,9.5
+184,171,Production Technician - WC30,S,4.0,M,2280.0,13,9.5
+185,172,Production Technician - WC30,M,4.0,M,2280.0,13,6.5
+186,172,Production Technician - WC30,M,4.0,M,2280.0,13,7.25
+187,172,Production Technician - WC30,M,4.0,M,2280.0,13,9.5
+188,173,Production Technician - WC30,S,4.0,M,2280.0,13,9.5
+189,174,Production Technician - WC30,S,4.0,M,2280.0,13,6.75
+190,174,Production Technician - WC30,S,4.0,M,2280.0,13,7.25
+191,174,Production Technician - WC30,S,4.0,M,2280.0,13,9.5
+192,175,Production Technician - WC30,M,4.0,M,2280.0,13,6.5
+193,175,Production Technician - WC30,M,4.0,M,2280.0,13,7.25
+194,175,Production Technician - WC30,M,4.0,M,2280.0,13,9.5
+195,176,Production Technician - WC30,M,4.0,M,2280.0,13,6.5
+196,176,Production Technician - WC30,M,4.0,M,2280.0,13,7.25
+197,176,Production Technician - WC30,M,4.0,M,2280.0,13,9.5
+198,177,Production Technician - WC30,M,4.0,M,2280.0,13,6.5
+199,177,Production Technician - WC30,M,4.0,M,2280.0,13,7.25
+200,177,Production Technician - WC30,M,4.0,M,2280.0,13,9.5
+201,178,Production Technician - WC30,S,4.0,M,2280.0,13,6.5
+202,178,Production Technician - WC30,S,4.0,M,2280.0,13,7.0
+203,178,Production Technician - WC30,S,4.0,M,2280.0,13,9.5
+204,179,Production Technician - WC30,S,4.0,M,2280.0,13,9.5
+205,180,Production Supervisor - WC20,S,3.0,F,5600.0,13,25.0
+206,181,Production Technician - WC20,S,4.0,M,3360.0,14,14.0
+207,182,Production Technician - WC20,S,4.0,M,3360.0,14,14.0
+208,183,Production Technician - WC20,M,4.0,F,3360.0,13,14.0
+209,184,Production Technician - WC20,M,4.0,M,3360.0,13,14.0
+210,185,Production Technician - WC20,S,4.0,M,3360.0,13,14.0
+211,186,Production Supervisor - WC45,S,3.0,M,5600.0,13,25.0
+212,187,Production Technician - WC45,M,4.0,F,2400.0,14,10.0
+213,188,Production Technician - WC45,M,4.0,M,2400.0,14,10.0
+214,189,Production Technician - WC45,S,4.0,F,2400.0,13,10.0
+215,190,Production Technician - WC45,S,4.0,M,2400.0,13,10.0
+216,191,Production Technician - WC45,S,4.0,M,2400.0,13,10.0
+217,192,Production Supervisor - WC40,M,3.0,F,5600.0,13,25.0
+218,193,Production Technician - WC40,S,4.0,M,3600.0,14,15.0
+219,194,Production Technician - WC40,S,4.0,M,3600.0,14,15.0
+220,195,Production Technician - WC40,S,4.0,M,3600.0,14,15.0
+221,196,Production Technician - WC40,M,4.0,M,3600.0,14,15.0
+222,197,Production Technician - WC40,M,4.0,M,3600.0,14,15.0
+223,198,Production Technician - WC40,M,4.0,F,3600.0,13,15.0
+224,199,Production Technician - WC40,M,4.0,F,3600.0,13,15.0
+225,200,Production Technician - WC40,M,4.0,M,3600.0,13,15.0
+226,201,Production Technician - WC40,S,4.0,M,3600.0,13,15.0
+227,202,Production Technician - WC40,S,4.0,M,3600.0,13,15.0
+228,203,Production Technician - WC40,M,4.0,M,3600.0,13,15.0
+229,204,Production Technician - WC40,M,4.0,M,3600.0,13,15.0
+230,205,Production Supervisor - WC45,S,3.0,F,5600.0,13,25.0
+231,206,Production Technician - WC45,S,4.0,M,2400.0,14,10.0
+232,207,Production Technician - WC45,S,4.0,M,2400.0,14,10.0
+233,208,Production Technician - WC45,M,4.0,M,2400.0,13,10.0
+234,209,Production Technician - WC45,M,4.0,F,2400.0,13,10.0
+235,210,Production Technician - WC45,S,4.0,F,2400.0,13,10.0
+236,211,Quality Assurance Manager,S,2.0,M,6461.5488,13,28.8462
+237,212,Quality Assurance Supervisor,M,3.0,M,4846.1504,14,21.6346
+238,213,Quality Assurance Technician,M,4.0,M,2369.2256,12,10.5769
+239,214,Quality Assurance Technician,M,4.0,M,2369.2256,13,10.5769
+240,215,Quality Assurance Technician,S,4.0,M,2369.2256,13,10.5769
+241,216,Quality Assurance Technician,S,4.0,M,2369.2256,14,10.5769
+242,217,Document Control Manager,M,3.0,M,3984.624,13,17.7885
+243,218,Control Specialist,S,4.0,M,3769.2256,14,16.8269
+244,219,Document Control Assistant,S,4.0,M,2296.0,13,10.25
+245,220,Document Control Assistant,M,4.0,F,2296.0,13,10.25
+246,221,Control Specialist,M,4.0,M,3769.2256,13,16.8269
+247,222,Master Scheduler,S,2.0,M,5276.9248,14,23.5577
+248,223,Scheduling Assistant,M,3.0,M,3584.0,13,16.0
+249,224,Scheduling Assistant,M,3.0,M,3584.0,11,8.62
+250,224,Scheduling Assistant,M,3.0,M,3584.0,11,8.62
+251,224,Scheduling Assistant,M,3.0,M,3584.0,11,13.5
+252,224,Scheduling Assistant,M,3.0,M,3584.0,11,13.5
+253,224,Scheduling Assistant,M,3.0,M,3584.0,11,16.0
+254,224,Scheduling Assistant,M,3.0,M,3584.0,11,16.0
+255,225,Scheduling Assistant,M,3.0,M,3584.0,13,16.0
+256,226,Scheduling Assistant,M,3.0,M,3584.0,13,16.0
+257,227,Facilities Manager,M,2.0,M,5384.624,13,24.0385
+258,228,Maintenance Supervisor,M,3.0,M,4576.9248,14,20.4327
+259,229,Janitor,M,4.0,F,2220.0,12,9.25
+260,230,Janitor,M,4.0,M,2220.0,12,9.25
+261,231,Janitor,M,4.0,F,2220.0,12,9.25
+262,232,Janitor,S,4.0,M,2220.0,12,9.25
+263,233,Facilities Administrative Assistant,M,3.0,M,2184.0,13,9.75
+264,234,Chief Financial Officer,M,1.0,F,13461.5488,9,39.06
+265,234,Chief Financial Officer,M,1.0,F,13461.5488,9,39.06
+266,234,Chief Financial Officer,M,1.0,F,13461.5488,9,48.5577
+267,234,Chief Financial Officer,M,1.0,F,13461.5488,9,48.5577
+268,234,Chief Financial Officer,M,1.0,F,13461.5488,9,60.0962
+269,234,Chief Financial Officer,M,1.0,F,13461.5488,9,60.0962
+270,235,Human Resources Manager,M,2.0,F,6079.2256,14,27.1394
+271,236,Human Resources Administrative Assistant,S,3.0,M,3123.0752,13,13.9423
+272,237,Human Resources Administrative Assistant,S,3.0,M,3123.0752,13,13.9423
+273,238,Recruiter,S,3.0,M,4092.3008,13,18.2692
+274,239,Benefits Specialist,M,3.0,F,3715.376,14,16.5865
+275,240,Recruiter,S,3.0,M,4092.3008,14,18.2692
+276,241,Accounts Manager,M,2.0,M,7780.7744,13,34.7356
+277,242,Accounts Receivable Specialist,M,3.0,F,4256.0,14,19.0
+278,243,Accounts Receivable Specialist,S,3.0,F,4256.0,13,19.0
+279,244,Accounts Receivable Specialist,S,3.0,M,4256.0,13,19.0
+280,245,Accountant,M,3.0,F,5923.0752,13,26.4423
+281,246,Accounts Payable Specialist,M,3.0,M,4256.0,13,19.0
+282,247,Accounts Payable Specialist,M,3.0,F,4256.0,13,19.0
+283,248,Accountant,S,3.0,M,5923.0752,13,26.4423
+284,249,Finance Manager,S,2.0,F,9692.3008,14,43.2692
+285,250,Purchasing Manager,S,3.0,F,6720.0,10,9.86
+286,250,Purchasing Manager,S,3.0,F,6720.0,10,9.86
+287,250,Purchasing Manager,S,3.0,F,6720.0,10,9.86
+288,250,Purchasing Manager,S,3.0,F,6720.0,10,22.5
+289,250,Purchasing Manager,S,3.0,F,6720.0,10,22.5
+290,250,Purchasing Manager,S,3.0,F,6720.0,10,22.5
+291,250,Purchasing Manager,S,3.0,F,6720.0,10,30.0
+292,250,Purchasing Manager,S,3.0,F,6720.0,10,30.0
+293,250,Purchasing Manager,S,3.0,F,6720.0,10,30.0
+294,251,Buyer,S,4.0,M,4092.3008,13,18.2692
+295,252,Buyer,M,4.0,M,4092.3008,13,18.2692
+296,253,Buyer,M,4.0,F,4092.3008,13,18.2692
+297,254,Buyer,M,4.0,M,4092.3008,12,18.2692
+298,255,Buyer,M,4.0,M,4092.3008,12,18.2692
+299,256,Buyer,M,4.0,M,4092.3008,12,18.2692
+300,257,Buyer,S,4.0,M,4092.3008,12,18.2692
+301,258,Buyer,S,4.0,F,4092.3008,12,18.2692
+302,259,Buyer,M,4.0,M,4092.3008,12,18.2692
+303,260,Purchasing Assistant,M,4.0,F,2856.0,12,12.75
+304,261,Purchasing Assistant,M,4.0,M,2856.0,12,12.75
+305,262,Assistant to the Chief Financial Officer,S,2.0,M,3015.376,13,13.4615
+306,263,Information Services Manager,S,1.0,F,11307.6992,14,50.4808
+307,264,Network Manager,S,2.0,F,8884.624,13,39.6635
+308,265,Network Administrator,S,3.0,M,7269.2256,14,32.4519
+309,266,Network Administrator,S,3.0,M,7269.2256,13,32.4519
+310,267,Application Specialist,S,2.0,F,6138.4512,13,27.4038
+311,268,Application Specialist,S,2.0,M,6138.4512,13,27.4038
+312,269,Application Specialist,M,2.0,M,6138.4512,13,27.4038
+313,270,Database Administrator,S,2.0,M,8615.376,13,38.4615
+314,271,Database Administrator,M,2.0,M,8615.376,13,38.4615
+315,272,Application Specialist,M,2.0,F,6138.4512,14,27.4038
+316,273,Vice President of Sales,S,1.0,M,16153.8496,11,72.1154
+317,274,North American Sales Manager,M,2.0,M,10774.624,11,48.101
+318,275,Sales Representative,S,3.0,M,5169.2256,11,23.0769
+319,276,Sales Representative,M,3.0,F,5169.2256,11,23.0769
+320,277,Sales Representative,S,3.0,F,5169.2256,11,23.0769
+321,278,Sales Representative,M,3.0,M,5169.2256,11,23.0769
+322,279,Sales Representative,M,3.0,M,5169.2256,11,23.0769
+323,280,Sales Representative,S,3.0,F,5169.2256,11,23.0769
+324,281,Sales Representative,M,3.0,M,5169.2256,11,23.0769
+325,282,Sales Representative,M,3.0,M,5169.2256,11,23.0769
+326,283,Sales Representative,S,3.0,M,5169.2256,11,23.0769
+327,284,Sales Representative,M,3.0,M,5169.2256,10,23.0769
+328,285,Pacific Sales Manager,M,2.0,M,10774.624,9,48.101
+329,286,Sales Representative,S,3.0,F,5169.2256,9,23.0769
+330,287,European Sales Manager,M,2.0,F,10774.624,10,48.101
+331,288,Sales Representative,S,3.0,F,5169.2256,9,23.0769
+332,289,Sales Representative,M,3.0,F,5169.2256,10,23.0769
+333,290,Sales Representative,S,3.0,M,5169.2256,10,23.0769

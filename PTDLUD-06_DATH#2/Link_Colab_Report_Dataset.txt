@@ -1,0 +1,6 @@
+Link Drive
+Dataset: https://drive.google.com/drive/folders/1ptGtSQ23cGLNo9ex-49H8i6RZeYLiO5S?usp=sharing
+Colab:
++ Câu 1+3+4: https://colab.research.google.com/drive/1Apl1Sx9dNzNTteIOjQsfc79pmY0UDdAm?usp=sharing
++ Câu 2: https://colab.research.google.com/drive/1XmxFdl9Tbsc80yzMx28BqNZ92DgTkwZg?usp=sharing
+Report: https://docs.google.com/document/d/1cL5vlOipqespd40l-w0rTREof5qt5lyY/edit?usp=sharing&ouid=101780859588467385667&rtpof=true&sd=true
